@@ -1,0 +1,2 @@
+# FreshVote
+A mini Reddit
