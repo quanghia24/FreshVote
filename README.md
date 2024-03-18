@@ -1,2 +1,3 @@
 # FreshVote
-A mini Reddit
+- A mini Reddit
+- Up/down vote
